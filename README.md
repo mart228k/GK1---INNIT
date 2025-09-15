@@ -17,6 +17,7 @@ Forudsætning: Node.js (LTS) installeret.
 
 ```sh
 cd mobile
+npm install
 npx expo start
 ```
 

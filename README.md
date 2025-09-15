@@ -13,7 +13,7 @@ Hvorfor TypeScript?
 Forudsætning: Node.js (LTS) installeret.
 
 1. Åbn terminal i projektet
-2. Kør nedenstående to trin:
+2. Kør nedenstående 3 trin:
 
 ```sh
 cd mobile

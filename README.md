@@ -8,6 +8,9 @@ Hvorfor TypeScript?
 - Bedre editor-hints og autocompletion gør det hurtigere at arbejde i komponenterne.
 - Nem refaktorering: ændrer jeg en type, kan jeg se alle steder der skal opdateres.
 
+### Link til videogennemgang
+https://youtube.com/shorts/p069x6EGHZA?feature=share
+
 ### Kør appen
 
 Forudsætning: Node.js (LTS) installeret.
